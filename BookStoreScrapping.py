@@ -20,8 +20,8 @@ while(True):
         stars=(ratings[index].p['class'][1])
         link = links[index].a['href']
         price = prices[index].text[1:]
-        if(dict[stars]==5):
-            with open(f'FiveStarRatedBooks/Page{j}.txt','a',encoding='utf-8') as f:
+        if(dict[stars]>=4):
+            with open(f'BookswithFiveandFourStarRating.txt','a',encoding='utf-8') as f:
                 f.write(f'Book Name: {name}\n Book Price: {price}\n Book Link:{link}\n')
                 f.write('\n')
                 f.close()
