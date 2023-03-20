@@ -1,0 +1,8 @@
+Book Name: The Barefoot Contessa Cookbook
+ Book Price: £59.92
+ Book Link:the-barefoot-contessa-cookbook_440/index.html
+
+Book Name: How to Stop Worrying and Start Living
+ Book Price: £46.49
+ Book Link:how-to-stop-worrying-and-start-living_431/index.html
+
