@@ -30,6 +30,7 @@ Book Name: Rip it Up and Start Again
  Book Price: £35.02
  Book Link:rip-it-up-and-start-again_986/index.html
 
+-------------------------------End of results from PAGE 1----------------------------------------
 Book Name: Chase Me (Paris Nights #2)
  Book Price: £25.27
  Book Link:chase-me-paris-nights-2_977/index.html
@@ -62,6 +63,7 @@ Book Name: Behind Closed Doors
  Book Price: £52.22
  Book Link:behind-closed-doors_962/index.html
 
+-------------------------------End of results from PAGE 2----------------------------------------
 Book Name: Private Paris (Private #10)
  Book Price: £47.61
  Book Link:private-paris-private-10_958/index.html
@@ -94,6 +96,7 @@ Book Name: The Past Never Ends
  Book Price: £56.50
  Book Link:the-past-never-ends_942/index.html
 
+-------------------------------End of results from PAGE 3----------------------------------------
 Book Name: The Nameless City (The Nameless City #1)
  Book Price: £38.16
  Book Link:the-nameless-city-the-nameless-city-1_940/index.html
@@ -122,6 +125,7 @@ Book Name: Spark Joy: An Illustrated Master Class on the Art of Organizing and T
  Book Price: £41.83
  Book Link:spark-joy-an-illustrated-master-class-on-the-art-of-organizing-and-tidying-up_927/index.html
 
+-------------------------------End of results from PAGE 4----------------------------------------
 Book Name: Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)
  Book Price: £13.61
  Book Link:princess-jellyfish-2-in-1-omnibus-vol-01-princess-jellyfish-2-in-1-omnibus-1_920/index.html
@@ -146,6 +150,7 @@ Book Name: In the Country We Love: My Family Divided
  Book Price: £22.00
  Book Link:in-the-country-we-love-my-family-divided_901/index.html
 
+-------------------------------End of results from PAGE 5----------------------------------------
 Book Name: Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine
  Book Price: £57.36
  Book Link:immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html
@@ -170,6 +175,7 @@ Book Name: Call the Nurse: True Stories of a Country Nurse on a Scottish Isle
  Book Price: £29.14
  Book Link:call-the-nurse-true-stories-of-a-country-nurse-on-a-scottish-isle_885/index.html
 
+-------------------------------End of results from PAGE 6----------------------------------------
 Book Name: A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations
  Book Price: £56.76
  Book Link:a-piece-of-sky-a-grain-of-rice-a-memoir-in-four-meditations_878/index.html
@@ -210,6 +216,7 @@ Book Name: The Stranger
  Book Price: £17.44
  Book Link:the-stranger_861/index.html
 
+-------------------------------End of results from PAGE 7----------------------------------------
 Book Name: The Secret (The Secret #1)
  Book Price: £27.37
  Book Link:the-secret-the-secret-1_859/index.html
@@ -230,6 +237,7 @@ Book Name: The Kite Runner
  Book Price: £41.82
  Book Link:the-kite-runner_847/index.html
 
+-------------------------------End of results from PAGE 8----------------------------------------
 Book Name: The Artist's Way: A Spiritual Path to Higher Creativity
  Book Price: £38.49
  Book Link:the-artists-way-a-spiritual-path-to-higher-creativity_839/index.html
@@ -258,6 +266,7 @@ Book Name: Mrs. Houdini
  Book Price: £30.25
  Book Link:mrs-houdini_821/index.html
 
+-------------------------------End of results from PAGE 9----------------------------------------
 Book Name: Modern Romance
  Book Price: £28.26
  Book Link:modern-romance_820/index.html
@@ -298,6 +307,7 @@ Book Name: Done Rubbed Out (Reightman & Bailey #1)
  Book Price: £37.72
  Book Link:done-rubbed-out-reightman-bailey-1_803/index.html
 
+-------------------------------End of results from PAGE 10----------------------------------------
 Book Name: Dark Notes
  Book Price: £19.19
  Book Link:dark-notes_800/index.html
@@ -334,6 +344,7 @@ Book Name: Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Par
  Book Price: £52.65
  Book Link:why-the-right-went-wrong-conservatism-from-goldwater-to-the-tea-party-and-beyond_781/index.html
 
+-------------------------------End of results from PAGE 11----------------------------------------
 Book Name: Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity
  Book Price: £38.20
  Book Link:whole-lotta-creativity-going-on-60-fun-and-unusual-exercises-to-awaken-and-strengthen-your-creativity_780/index.html
@@ -374,6 +385,7 @@ Book Name: The Song of Achilles
  Book Price: £37.40
  Book Link:the-song-of-achilles_762/index.html
 
+-------------------------------End of results from PAGE 12----------------------------------------
 Book Name: The Marriage of Opposites
  Book Price: £28.08
  Book Link:the-marriage-of-opposites_759/index.html
@@ -386,6 +398,7 @@ Book Name: The Bane Chronicles (The Bane Chronicles #1-11)
  Book Price: £44.73
  Book Link:the-bane-chronicles-the-bane-chronicles-1-11_746/index.html
 
+-------------------------------End of results from PAGE 13----------------------------------------
 Book Name: Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1)
  Book Price: £11.89
  Book Link:superman-vol-1-before-truth-superman-by-gene-luen-yang-1_739/index.html
@@ -422,6 +435,7 @@ Book Name: Old School (Diary of a Wimpy Kid #10)
  Book Price: £11.83
  Book Link:old-school-diary-of-a-wimpy-kid-10_723/index.html
 
+-------------------------------End of results from PAGE 14----------------------------------------
 Book Name: Made to Stick: Why Some Ideas Survive and Others Die
  Book Price: £38.85
  Book Link:made-to-stick-why-some-ideas-survive-and-others-die_715/index.html
@@ -454,6 +468,7 @@ Book Name: Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanism
  Book Price: £14.75
  Book Link:hyperbole-and-a-half-unfortunate-situations-flawed-coping-mechanisms-mayhem-and-other-things-that-happened_702/index.html
 
+-------------------------------End of results from PAGE 15----------------------------------------
 Book Name: Greek Mythic History
  Book Price: £10.23
  Book Link:greek-mythic-history_698/index.html
@@ -486,6 +501,7 @@ Book Name: Dear Mr. Knightley
  Book Price: £11.21
  Book Link:dear-mr-knightley_684/index.html
 
+-------------------------------End of results from PAGE 16----------------------------------------
 Book Name: Code Name Verity (Code Name Verity #1)
  Book Price: £22.13
  Book Link:code-name-verity-code-name-verity-1_680/index.html
@@ -518,6 +534,7 @@ Book Name: Aristotle and Dante Discover the Secrets of the Universe (Aristotle a
  Book Price: £58.14
  Book Link:aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html
 
+-------------------------------End of results from PAGE 17----------------------------------------
 Book Name: All the Light We Cannot See
  Book Price: £29.87
  Book Link:all-the-light-we-cannot-see_660/index.html
@@ -542,6 +559,7 @@ Book Name: The Silent Sister (Riley MacPherson #1)
  Book Price: £46.29
  Book Link:the-silent-sister-riley-macpherson-1_641/index.html
 
+-------------------------------End of results from PAGE 18----------------------------------------
 Book Name: The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore
  Book Price: £59.15
  Book Link:the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html
@@ -574,6 +592,7 @@ Book Name: How to Speak Golf: An Illustrated Guide to Links Lingo
  Book Price: £58.32
  Book Link:how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html
 
+-------------------------------End of results from PAGE 19----------------------------------------
 Book Name: Furiously Happy: A Funny Book About Horrible Things
  Book Price: £41.46
  Book Link:furiously-happy-a-funny-book-about-horrible-things_619/index.html
@@ -598,6 +617,7 @@ Book Name: The Sleep Revolution: Transforming Your Life, One Night at a Time
  Book Price: £11.68
  Book Link:the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html
 
+-------------------------------End of results from PAGE 20----------------------------------------
 Book Name: Mother, Can You Not?
  Book Price: £16.89
  Book Link:mother-can-you-not_599/index.html
@@ -634,6 +654,7 @@ Book Name: 10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!
  Book Price: £49.71
  Book Link:10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html
 
+-------------------------------End of results from PAGE 21----------------------------------------
 Book Name: Without Shame
  Book Price: £48.27
  Book Link:without-shame_580/index.html
@@ -670,6 +691,7 @@ Book Name: Fruits Basket, Vol. 9 (Fruits Basket #9)
  Book Price: £33.95
  Book Link:fruits-basket-vol-9-fruits-basket-9_563/index.html
 
+-------------------------------End of results from PAGE 22----------------------------------------
 Book Name: Art and Fear: Observations on the Perils (and Rewards) of Artmaking
  Book Price: £48.63
  Book Link:art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html
@@ -690,6 +712,7 @@ Book Name: Shadows of the Past (Logan Point #1)
  Book Price: £39.67
  Book Link:shadows-of-the-past-logan-point-1_541/index.html
 
+-------------------------------End of results from PAGE 23----------------------------------------
 Book Name: Roller Girl
  Book Price: £14.10
  Book Link:roller-girl_540/index.html
@@ -726,6 +749,7 @@ Book Name: History of Beauty
  Book Price: £10.29
  Book Link:history-of-beauty_521/index.html
 
+-------------------------------End of results from PAGE 24----------------------------------------
 Book Name: Future Shock (Future Shock #1)
  Book Price: £55.65
  Book Link:future-shock-future-shock-1_519/index.html
@@ -754,6 +778,7 @@ Book Name: The Whale
  Book Price: £35.96
  Book Link:the-whale_501/index.html
 
+-------------------------------End of results from PAGE 25----------------------------------------
 Book Name: The Story of Art
  Book Price: £41.14
  Book Link:the-story-of-art_500/index.html
@@ -786,6 +811,7 @@ Book Name: Sister Dear
  Book Price: £40.20
  Book Link:sister-dear_485/index.html
 
+-------------------------------End of results from PAGE 26----------------------------------------
 Book Name: Nightstruck: A Novel
  Book Price: £50.35
  Book Link:nightstruck-a-novel_480/index.html
@@ -830,6 +856,7 @@ Book Name: Counted With the Stars (Out from Egypt #1)
  Book Price: £17.97
  Book Link:counted-with-the-stars-out-from-egypt-1_463/index.html
 
+-------------------------------End of results from PAGE 27----------------------------------------
 Book Name: At The Existentialist CafÃ©: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others
  Book Price: £29.93
  Book Link:at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html
@@ -866,6 +893,7 @@ Book Name: The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats 
  Book Price: £15.42
  Book Link:the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html
 
+-------------------------------End of results from PAGE 28----------------------------------------
 Book Name: The Barefoot Contessa Cookbook
  Book Price: £59.92
  Book Link:the-barefoot-contessa-cookbook_440/index.html
@@ -902,6 +930,7 @@ Book Name: A Year in Provence (Provence #1)
  Book Price: £56.88
  Book Link:a-year-in-provence-provence-1_421/index.html
 
+-------------------------------End of results from PAGE 29----------------------------------------
 Book Name: World Without End (The Pillars of the Earth #2)
  Book Price: £32.97
  Book Link:world-without-end-the-pillars-of-the-earth-2_420/index.html
@@ -942,6 +971,7 @@ Book Name: The False Prince (The Ascendance Trilogy #1)
  Book Price: £56.00
  Book Link:the-false-prince-the-ascendance-trilogy-1_402/index.html
 
+-------------------------------End of results from PAGE 30----------------------------------------
 Book Name: The Darkest Corners
  Book Price: £11.33
  Book Link:the-darkest-corners_399/index.html
@@ -982,6 +1012,7 @@ Book Name: Kill the Boy Band
  Book Price: £15.52
  Book Link:kill-the-boy-band_381/index.html
 
+-------------------------------End of results from PAGE 31----------------------------------------
 Book Name: Isla and the Happily Ever After (Anna and the French Kiss #3)
  Book Price: £48.13
  Book Link:isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html
@@ -1014,6 +1045,7 @@ Book Name: An Abundance of Katherines
  Book Price: £10.00
  Book Link:an-abundance-of-katherines_362/index.html
 
+-------------------------------End of results from PAGE 32----------------------------------------
 Book Name: Alight (The Generations Trilogy #2)
  Book Price: £58.59
  Book Link:alight-the-generations-trilogy-2_360/index.html
@@ -1046,6 +1078,7 @@ Book Name: Some Women
  Book Price: £13.73
  Book Link:some-women_341/index.html
 
+-------------------------------End of results from PAGE 33----------------------------------------
 Book Name: Shopaholic Ties the Knot (Shopaholic #3)
  Book Price: £48.39
  Book Link:shopaholic-ties-the-knot-shopaholic-3_340/index.html
@@ -1094,6 +1127,7 @@ Book Name: Fruits Basket, Vol. 4 (Fruits Basket #4)
  Book Price: £50.44
  Book Link:fruits-basket-vol-4-fruits-basket-4_321/index.html
 
+-------------------------------End of results from PAGE 34----------------------------------------
 Book Name: Atlas Shrugged
  Book Price: £26.58
  Book Link:atlas-shrugged_314/index.html
@@ -1110,6 +1144,7 @@ Book Name: When You Are Engulfed in Flames
  Book Price: £30.89
  Book Link:when-you-are-engulfed-in-flames_303/index.html
 
+-------------------------------End of results from PAGE 35----------------------------------------
 Book Name: Voyager (Outlander #3)
  Book Price: £21.07
  Book Link:voyager-outlander-3_299/index.html
@@ -1118,6 +1153,7 @@ Book Name: The Undomestic Goddess
  Book Price: £45.75
  Book Link:the-undomestic-goddess_286/index.html
 
+-------------------------------End of results from PAGE 36----------------------------------------
 Book Name: The Silkworm (Cormoran Strike #2)
  Book Price: £23.05
  Book Link:the-silkworm-cormoran-strike-2_280/index.html
@@ -1146,6 +1182,7 @@ Book Name: The Lonely Ones
  Book Price: £43.59
  Book Link:the-lonely-ones_261/index.html
 
+-------------------------------End of results from PAGE 37----------------------------------------
 Book Name: The Land of 10,000 Madonnas
  Book Price: £29.64
  Book Link:the-land-of-10000-madonnas_258/index.html
@@ -1174,6 +1211,7 @@ Book Name: The Day the Crayons Came Home (Crayons)
  Book Price: £26.33
  Book Link:the-day-the-crayons-came-home-crayons_241/index.html
 
+-------------------------------End of results from PAGE 38----------------------------------------
 Book Name: The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition])
  Book Price: £26.78
  Book Link:the-complete-stories-and-poems-the-works-of-edgar-allan-poe-cameo-edition_238/index.html
@@ -1194,6 +1232,7 @@ Book Name: Something Borrowed (Darcy & Rachel #1)
  Book Price: £48.96
  Book Link:something-borrowed-darcy-rachel-1_224/index.html
 
+-------------------------------End of results from PAGE 39----------------------------------------
 Book Name: Seven Brief Lessons on Physics
  Book Price: £30.60
  Book Link:seven-brief-lessons-on-physics_219/index.html
@@ -1218,6 +1257,7 @@ Book Name: Ready Player One
  Book Price: £19.07
  Book Link:ready-player-one_209/index.html
 
+-------------------------------End of results from PAGE 40----------------------------------------
 Book Name: Life Without a Recipe
  Book Price: £59.04
  Book Link:life-without-a-recipe_188/index.html
@@ -1234,6 +1274,7 @@ Book Name: Lady Renegades (Rebel Belle #3)
  Book Price: £53.04
  Book Link:lady-renegades-rebel-belle-3_181/index.html
 
+-------------------------------End of results from PAGE 41----------------------------------------
 Book Name: Into the Wild
  Book Price: £56.70
  Book Link:into-the-wild_177/index.html
@@ -1266,6 +1307,7 @@ Book Name: Golden (Heart of Dread #3)
  Book Price: £42.21
  Book Link:golden-heart-of-dread-3_161/index.html
 
+-------------------------------End of results from PAGE 42----------------------------------------
 Book Name: Fire Bound (Sea Haven/Sisters of the Heart #5)
  Book Price: £21.28
  Book Link:fire-bound-sea-havensisters-of-the-heart-5_157/index.html
@@ -1290,6 +1332,7 @@ Book Name: Crazy Rich Asians (Crazy Rich Asians #1)
  Book Price: £49.13
  Book Link:crazy-rich-asians-crazy-rich-asians-1_143/index.html
 
+-------------------------------End of results from PAGE 43----------------------------------------
 Book Name: Breaking Dawn (Twilight #4)
  Book Price: £35.28
  Book Link:breaking-dawn-twilight-4_136/index.html
@@ -1314,6 +1357,7 @@ Book Name: Ash
  Book Price: £22.06
  Book Link:ash_123/index.html
 
+-------------------------------End of results from PAGE 44----------------------------------------
 Book Name: Annie on My Mind
  Book Price: £36.83
  Book Link:annie-on-my-mind_120/index.html
@@ -1342,6 +1386,7 @@ Book Name: H is for Hawk
  Book Price: £57.42
  Book Link:h-is-for-hawk_102/index.html
 
+-------------------------------End of results from PAGE 45----------------------------------------
 Book Name: Fruits Basket, Vol. 2 (Fruits Basket #2)
  Book Price: £11.64
  Book Link:fruits-basket-vol-2-fruits-basket-2_100/index.html
@@ -1386,6 +1431,7 @@ Book Name: The Silent Wife
  Book Price: £12.34
  Book Link:the-silent-wife_83/index.html
 
+-------------------------------End of results from PAGE 46----------------------------------------
 Book Name: The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1)
  Book Price: £57.70
  Book Link:the-no-1-ladies-detective-agency-no-1-ladies-detective-agency-1_76/index.html
@@ -1406,6 +1452,7 @@ Book Name: The Edge of Reason (Bridget Jones #2)
  Book Price: £19.18
  Book Link:the-edge-of-reason-bridget-jones-2_63/index.html
 
+-------------------------------End of results from PAGE 47----------------------------------------
 Book Name: The Art of Not Breathing
  Book Price: £40.83
  Book Link:the-art-of-not-breathing_58/index.html
@@ -1422,6 +1469,7 @@ Book Name: Paper Girls, Vol. 1 (Paper Girls #1-5)
  Book Price: £21.71
  Book Link:paper-girls-vol-1-paper-girls-1-5_44/index.html
 
+-------------------------------End of results from PAGE 48----------------------------------------
 Book Name: Off Sides (Off #1)
  Book Price: £39.45
  Book Link:off-sides-off-1_38/index.html
@@ -1466,6 +1514,7 @@ Book Name: Fruits Basket, Vol. 1 (Fruits Basket #1)
  Book Price: £40.28
  Book Link:fruits-basket-vol-1-fruits-basket-1_21/index.html
 
+-------------------------------End of results from PAGE 49----------------------------------------
 Book Name: Deep Under (Walker Security #1)
  Book Price: £47.09
  Book Link:deep-under-walker-security-1_15/index.html
@@ -1498,3 +1547,4 @@ Book Name: 1,000 Places to See Before You Die
  Book Price: £26.08
  Book Link:1000-places-to-see-before-you-die_1/index.html
 
+-------------------------------End of results from PAGE 50----------------------------------------
